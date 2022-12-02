@@ -1,0 +1,198 @@
+/* GENERAL OPTION */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans&display=swap');
+
+body{
+    width: 100%;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.4rem;
+    color: #393d41;
+    line-height: 2rem;
+}
+
+body h1{
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 2.5rem;
+    padding: 15% 5vh 5%;
+    line-height: 1;
+}
+
+body p {
+    padding: 0 5%;
+}
+
+body h2{
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding: 10% 5vh 5%;
+    line-height: 1;
+}
+
+body h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 2.2rem;
+    padding: 15% 5vh 5%;
+    line-height: 1;
+}
+
+/* HEADER */
+
+header {
+    background: rgb(0, 255, 26);
+    background: black;
+    height: 10%;
+}
+
+header>div.black-header {
+    padding: 8% 0;
+}
+
+header>div.black-header> img {
+    width: 40%;
+    max-height: 70%;
+}
+
+header>div.image {
+    background-size: cover;
+    background-image: url(../images/banner.jpg);
+    padding-bottom: 10%;
+}
+
+header>div.image img {
+    width: 100%;
+}
+
+header>div.image>div.partiamo {
+    background-color: #FB4725;
+    width: 30%;
+    border-radius: 5px;
+    padding: 2%;
+    color: white;
+    font-weight: 600;
+    font-size: 0.7em;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10% auto 0;
+}
+
+/* MAIN */
+
+main>section.first {
+    padding: 5% 0 15%;
+    background-color: white;
+    width: 100%;
+}
+
+main>section.first img {
+    width: 100%;
+    border-radius: 50%;
+    padding: 5% 15% 0;
+    box-sizing: border-box;
+}
+
+main section.second {
+    background: #f04c2f;
+    width: 100%;
+    color: white;
+}
+
+main section.second p.special_p1 {
+    font-style: italic;
+    font-size: 0.8em;
+    padding: 5% 0;
+}
+
+main section.second p.special_p2 {
+    font-size: 0.9em;
+    padding: 5% 0 0;
+}
+
+main section.second p.special_p3 {
+    font-size: 0.6em;
+    padding: 0 0 10%;
+}
+
+main section.third {
+    background: white;
+    padding-bottom: 20%;
+}
+
+main section.third img {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+main section.third div.border {
+    border: solid #dee1e3 1px;
+    border-top: 0px;
+    margin: 10% 5% 0%;
+    padding: 0 0 10%;
+    line-height: 1.2em;
+}
+
+main section.third div.border h2 {
+    font-size: 0.8em;
+    padding: 5% 5vh 5%;
+}
+
+main section.third div.border p {
+    font-size: 0.8em;
+}
+
+/* MAIN'S ELEMENTS */
+
+/* TABLE */
+
+/* FORM */
+
+/* ASIDE'S ELEMENTS */
+
+/* FOOTER */
+
+footer {
+    background: #25a2c3;
+    font-family: 'opensans', sans-serif;
+}
+
+footer p.special_p1 {
+    font-weight: bold;
+    font-size:1.9em;
+    padding: 15% 0 8%;
+    color: white;
+}
+
+footer p.special_p2>a {
+    font-size: 0.9em;
+    color: #c8e7f0;
+    line-height: 1em;
+}
+
+footer p.special_p2 {
+    padding-bottom: 3%;
+    font-size: 0.9em;
+    color: #c8e7f0;
+    line-height: 1em;
+}
+
+footer p.special_p3 {
+    font-size: 0.9em;
+    padding: 3% 0 15%;
+    color: #c8e7f0;
+}
+
+footer p.special_p3 a {
+    font-size: 0.9em;
+    padding: 3% 0 15%;
+    color: #c8e7f0;
+}
+footer i {
+    color: white;
+}
+
+hr {
+    width: 50%;
+}

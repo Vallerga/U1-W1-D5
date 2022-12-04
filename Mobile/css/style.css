@@ -15,7 +15,7 @@ body h1{
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     font-size: 2.5rem;
-    padding: 15% 5vh 5%;
+    padding: 15% 0 5%;
     line-height: 1;
 }
 
@@ -28,7 +28,7 @@ body h2{
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     font-size: 1.5rem;
-    padding: 10% 5vh 5%;
+    padding: 10% 0 5%;
     line-height: 1;
 }
 
@@ -36,14 +36,13 @@ body h3 {
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     font-size: 2.2rem;
-    padding: 15% 5vh 5%;
+    padding: 15% 0 5%;
     line-height: 1;
 }
 
 /* HEADER */
 
 header {
-    background: rgb(0, 255, 26);
     background: black;
     height: 10%;
 }
@@ -136,20 +135,12 @@ main section.third div.border {
 
 main section.third div.border h2 {
     font-size: 0.8em;
-    padding: 5% 5vh 5%;
+    padding: 5% 0 5%;
 }
 
 main section.third div.border p {
     font-size: 0.8em;
 }
-
-/* MAIN'S ELEMENTS */
-
-/* TABLE */
-
-/* FORM */
-
-/* ASIDE'S ELEMENTS */
 
 /* FOOTER */
 
